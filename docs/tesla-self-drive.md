@@ -37,6 +37,8 @@ Tesla have a massive labelling programme. This includes an large in-house manual
 
 They have also developed auto-labelling systems, some of the details of which were not clear to me. One of the cool techniques, though, is the use of photorealistically rendered simulations. These simulations are videogames with autopilot as a player. This gives perfect labels, of course. 
 
+On that labelling team - It seems to be [1,000 people](https://saneryee-studio.medium.com/deep-understanding-tesla-fsd-part-4-auto-labeling-simulation-60c9bfd3bcb5) being paid [$22 an hour](https://electrek.co/2021/02/08/tesla-looks-hire-data-labelers-feed-autopilot-neural-nets-images-gigafactory-new-york/). At 30 hours/week for 46 weeks/year (possibly both underestimates), that's an **annual bill of around $30m.** 
+
 #### Compute resource
 
 Tesla are building Project Dojo, a 10-cabinet exascale supercomputer designed from custom silicon up to be 4X performance and 1/5th footprint of the best existing system for AI training. It starts with the D1 chip, which contains 354 compute nodes in a 2D mesh. Each node is 1 TFLOP (although 1.25MB RAM), and each D1 chip is 362TFLOP and 400W, with massive (4TB/s) I/O speed. 25 D1 dies are placed on a training tile (9 PFLOP per tile). The tile is the size of an LP, and about 2 inches thick. Six tiles in a tray, two trays in a cabinet. 10 cabinets. Total 1.1 EFLOP. 
