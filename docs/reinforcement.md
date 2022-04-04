@@ -44,6 +44,6 @@ checkers-playing program"
 
 ## Inspired by this book
 
-- Learning as an efficiency upgrade for evolution.
+- Learning as an efficiency upgrade for evolution. I put this statement on Twitter, and got a couple of nice references in return: (1) a simulation by [Hinton & Nowlan (1987)](https://cogsci.ucsd.edu/~rik/courses/cogs184_w10/readings/HintonNowlan97.pdf) which is an illustration of how learning can lead to a smoother search space for evolution. (2) [Heyes, Chater & Dwyer (2020)](https://users.ox.ac.uk/~ascch/Celia's%20pdfs/3%20Heyes,%20Chater%20&%20Dwyer%202020.pdf) which argues the changes are more likely to be on peripheral than central cognitive mechanisms. 
 
 - "If the step size property is reduced appropriately over time" : How does the system know how to do this?
